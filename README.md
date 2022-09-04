@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on improving DevEx and Game-DevEx.
 - 🌱 I’m currently learning personal finance.
-- 👯 I’m looking to collaborate on SASS Products.
+- 👯 I’m looking to collaborate on if you have a great idea.
 - 🤔 I’m looking for help with Marketing/Sales.
 - 💬 Ask me about my programming journey.
 - 📫 How to reach me: https://radegg.com
